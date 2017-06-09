@@ -13,7 +13,7 @@ this simple solution is to handle single problem
 
 ## Prepare project:
 #### 1. download & install node.js (https://nodejs.org/en/download/)
-#### 2. download/copy "html-bundler.js" from this repository
+#### 2. download/copy "html-bundler.js" from this repository to your project path where index.html should be
 #### 3. make directory "project" in your project root
 ##### 3a. "project" is for logical sections in separate files
 ##### 3b. if name of .html file in "project" directory have "body" - this file alphabeticly goes into body tag
