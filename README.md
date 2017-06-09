@@ -5,9 +5,9 @@ this simple solution is to handle single problem
 #### licence: feel free to use, modify and share
 #### add a star if you like it
 
-# problem which this tool solve
-### you develop complex page without server-side rendering with template engine where is only index.html on front-end side
-### you can't split index.html into logical sections and put it into separate files
+# problem which this tool solves
+#### you develop complex page without server-side rendering with template engine where is only index.html on front-end side
+#### you can't split index.html into logical sections and put it into separate files
 
 # now you can - just have to follow these simple rules
 
@@ -24,4 +24,5 @@ this simple solution is to handle single problem
 #### 6. Done, 
 
 ###### to customize index.html or paths edit pattern in html-bundler.js
+###### author: Przemek Jóźwiakowski, Value Point
 

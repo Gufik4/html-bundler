@@ -2,7 +2,7 @@ const fs = require('fs');
 const concatHtmlFiles = (opt) => {
 
     const __defaultOpt = {
-        pathToIndex:(opt && opt.pathToIndex) || './dist',
+        pathToIndex:(opt && opt.pathToIndex) || './',
         pathToParts:(opt && opt.pathToParts) || './project'
     }
 
