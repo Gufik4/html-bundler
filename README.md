@@ -21,7 +21,7 @@ this simple solution is to handle single problem
 ##### 3d. if name of .html file in "project" directory have "script" - this file alphabeticly goes into bottom of <body> (some script have to be loaded here)
 #### 4. open Terminal.app (MacOs) or Command/Bash (Windows/Unix) & go to project root
 #### 5. run command "node html-bundler" or "npm run build"
-#### 6. Done, 
+#### 6. Done
 
 ###### to customize index.html or paths edit pattern in html-bundler.js
 ###### author: Przemek Jóźwiakowski, Value Point
