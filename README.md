@@ -16,9 +16,9 @@ this simple solution is to handle single problem
 #### 2. download/copy from this repository
 #### 3. make directory "project"
 ##### 3a. "project" is for logical sections in separate files
-##### 3b. if name of .html file in "project" directory have "body" - this file alphabeticly goes into <body>
-##### 3c. if name of .html file in "project" directory have "head" - this file alphabeticly goes into <head>
-##### 3d. if name of .html file in "project" directory have "script" - this file alphabeticly goes into bottom of <body> (some script have to be loaded here)
+##### 3b. if name of .html file in "project" directory have "body" - this file alphabeticly goes into body tag
+##### 3c. if name of .html file in "project" directory have "head" - this file alphabeticly goes into head tag
+##### 3d. if name of .html file in "project" directory have "script" - this file alphabeticly goes into bottom of body tag (some script have to be loaded here)
 #### 4. open Terminal.app (MacOs) or Command/Bash (Windows/Unix) & go to project root
 #### 5. run command "node html-bundler" or "npm run build"
 #### 6. Done
