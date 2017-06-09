@@ -14,7 +14,7 @@ this simple solution is to handle single problem
 ## Prepare project:
 #### 1. download & install node.js (https://nodejs.org/en/download/)
 #### 2. download/copy "html-bundler.js" from this repository
-#### 3. make directory "project"
+#### 3. make directory "project" in your project root
 ##### 3a. "project" is for logical sections in separate files
 ##### 3b. if name of .html file in "project" directory have "body" - this file alphabeticly goes into body tag
 ##### 3c. if name of .html file in "project" directory have "head" - this file alphabeticly goes into head tag
@@ -24,5 +24,8 @@ this simple solution is to handle single problem
 #### 6. Done
 
 ###### to customize index.html or paths edit pattern in html-bundler.js
+###### example name patterns for .html is in to "project" 
+
+
 ###### author: Przemek Jóźwiakowski, Value Point
 
